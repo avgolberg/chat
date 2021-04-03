@@ -1,0 +1,10 @@
+C:\Users\Аленка\source\repos\Chat Client\bin\Debug\Chat Client.exe.config
+C:\Users\Аленка\source\repos\Chat Client\bin\Debug\Chat Client.exe
+C:\Users\Аленка\source\repos\Chat Client\bin\Debug\Chat Client.pdb
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat Client.csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat_Client.Form1.resources
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat_Client.Properties.Resources.resources
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat Client.csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat Client.exe
+C:\Users\Аленка\source\repos\Chat Client\obj\Debug\Chat Client.pdb
